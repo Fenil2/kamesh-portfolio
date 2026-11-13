@@ -41,7 +41,7 @@ export default function About() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 md:gap-12 mb-20">
           <div data-reveal="left">
             <p className="text-lg leading-relaxed mb-6" style={{ color: '#F5F5F5' }}>
-              I&apos;m Abishek.J, a passionate video editor and videographer based in Chennai. My journey in video production started with a genuine love for visual storytelling and has evolved into a professional expertise spanning multiple industries.
+              I&apos;m Kamesh.J, a passionate video editor and videographer based in Chennai. My journey in video production started with a genuine love for visual storytelling and has evolved into a professional expertise spanning multiple industries.
             </p>
             <p className="text-lg leading-relaxed mb-6" style={{ color: 'rgba(245, 245, 245, 0.8)' }}>
               From aesthetic clinics to automotive brands, influencer collaborations to luxury resorts, I&apos;ve had the privilege of working with diverse clients. Currently producing high-volume short-form content at GrowMedico while maintaining freelance projects with premium clients.

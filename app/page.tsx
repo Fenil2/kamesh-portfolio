@@ -7,10 +7,10 @@ import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'Abishek.J - Video Editor & Videographer | Home',
+  title: 'Kamesh.J - Video Editor & Videographer | Home',
   description: 'Creative video editor specializing in short-form content, motion graphics, and medical/aesthetic brand content. Based in Chennai.',
   openGraph: {
-    title: 'Abishek.J - Video Editor & Videographer',
+    title: 'Kamesh.J - Video Editor & Videographer',
     description: 'Creative video editor specializing in short-form content, motion graphics, and medical/aesthetic brand content.',
   },
 };

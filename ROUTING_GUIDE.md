@@ -99,23 +99,23 @@ components/
 Each page has optimized metadata:
 
 ### Home Page
-- Title: `Abishek.J - Video Editor & Videographer | Home`
+- Title: `Kamesh.J - Video Editor & Videographer | Home`
 - Description: Tailored for portfolio home
 
 ### About Page
-- Title: `About Me - Abishek.J Video Editor`
+- Title: `About Me - Kamesh.J Video Editor`
 - Description: Learn about my journey as a video editor
 
 ### Portfolio Page
-- Title: `Portfolio - Abishek.J Video Projects`
+- Title: `Portfolio - Kamesh.J Video Projects`
 - Description: Explore video editing projects
 
 ### Skills Page
-- Title: `Skills & Expertise - Abishek.J`
+- Title: `Skills & Expertise - Kamesh.J`
 - Description: Professional expertise showcase
 
 ### Contact Page
-- Title: `Get In Touch - Abishek.J`
+- Title: `Get In Touch - Kamesh.J`
 - Description: Contact information and form
 
 ## Navigation Flow
@@ -149,7 +149,7 @@ import BlogContent from '@/components/BlogContent';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'Blog - Abishek.J',
+  title: 'Blog - Kamesh.J',
   description: 'Video editing tips and insights',
 };
 

@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Abishek.J - Video Editor & Videographer Portfolio',
+  title: 'Kamesh.J - Video Editor & Videographer Portfolio',
   description: 'Creative video editor specializing in short-form content, motion graphics, and medical/aesthetic brand content. Based in Chennai.',
   generator: 'v0.app',
   icons: {

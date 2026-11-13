@@ -3,10 +3,10 @@ import Contact from '@/components/Contact';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'Get In Touch - Abishek.J',
+  title: 'Get In Touch - Kamesh.J',
   description: 'Contact me for your video editing and videography projects. Let\'s collaborate and create amazing content together.',
   openGraph: {
-    title: 'Get In Touch - Abishek.J',
+    title: 'Get In Touch - Kamesh.J',
     description: 'Contact me for your video editing and videography projects. Let\'s collaborate and create amazing content together.',
   },
 };

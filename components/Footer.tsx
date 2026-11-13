@@ -25,8 +25,8 @@ export default function Footer() {
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-12">
           <div data-reveal style={{ '--reveal-delay': '0s' } as React.CSSProperties}>
-            <Link href="/" className="mb-4 inline-block" aria-label="Abishek J home">
-              <Image src="/logo.png" alt="Abishek J logo" width={104} height={44} />
+            <Link href="/" className="mb-4 inline-block" aria-label="Kamesh J home">
+              <Image src="/logo.png" alt="Kamesh J logo" width={104} height={44} />
             </Link>
             <p style={{ color: 'rgba(245, 245, 245, 0.7)' }} className="text-sm">
               Creative video editor crafting cinematic stories for brands and creators.
@@ -99,12 +99,8 @@ export default function Footer() {
 
         <div style={{ borderTop: '1px solid rgba(220, 38, 38, 0.2)', marginBottom: '1rem' }}></div>
 
-        <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-center md:text-left" style={{ color: 'rgba(245, 245, 245, 0.6)' }}>
-          <p>&copy; 2025 Abishek.J. All rights reserved.</p>
-          <div className="flex flex-col sm:flex-row gap-4 sm:gap-6">
-            <Link href={siteConfig.ctas.privacyPolicy} className="hover:opacity-70 transition-opacity">Privacy Policy</Link>
-            <Link href={siteConfig.ctas.termsOfService} className="hover:opacity-70 transition-opacity">Terms of Service</Link>
-          </div>
+        <div className="flex justify-center text-sm text-center" style={{ color: 'rgba(245, 245, 245, 0.6)' }}>
+          <p>&copy; 2025 Kamesh.J. All rights reserved.</p>
         </div>
       </div>
     </footer>

@@ -40,9 +40,9 @@ export default function Header() {
         <Link
           href="/"
           className="transition-transform duration-300 hover:scale-105"
-          aria-label="Abishek J home"
+          aria-label="Kamesh J home"
         >
-          <Image src="/logo.png" alt="Abishek J logo" width={104} height={44} priority />
+          <Image src="/logo.png" alt="Kamesh J logo" width={104} height={44} priority />
         </Link>
 
         <div className="hidden md:flex items-center gap-8">

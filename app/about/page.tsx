@@ -3,10 +3,10 @@ import About from '@/components/About';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'About Me - Abishek.J Video Editor',
+  title: 'About Me - Kamesh.J Video Editor',
   description: 'Learn about my journey as a video editor and videographer with experience in short-form content and motion graphics.',
   openGraph: {
-    title: 'About Me - Abishek.J Video Editor',
+    title: 'About Me - Kamesh.J Video Editor',
     description: 'Learn about my journey as a video editor and videographer with experience in short-form content and motion graphics.',
   },
 };

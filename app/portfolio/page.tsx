@@ -3,10 +3,10 @@ import Portfolio from '@/components/Portfolio';
 import Footer from '@/components/Footer';
 
 export const metadata = {
-  title: 'Portfolio - Abishek.J Video Projects',
+  title: 'Portfolio - Kamesh.J Video Projects',
   description: 'Explore my video editing projects across medical, lifestyle, commercial, and motion graphics categories.',
   openGraph: {
-    title: 'Portfolio - Abishek.J Video Projects',
+    title: 'Portfolio - Kamesh.J Video Projects',
     description: 'Explore my video editing projects across medical, lifestyle, commercial, and motion graphics categories.',
   },
 };
